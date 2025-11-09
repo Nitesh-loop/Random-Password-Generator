@@ -22,13 +22,5 @@ https://nitesh-loop.github.io/Random-Password-Generator/
 - CSS
 - JavaScript
 
-## Project Structure
-js-sp-p4/
-├─ images/github-logo.png
-├─ index.html # Main HTML file
-├─ index.css # Styles for the app
-├─ index.js # JavaScript logic
-└─ README.md # Project documentation
-
 ## License
 This project is open source and free to use.
