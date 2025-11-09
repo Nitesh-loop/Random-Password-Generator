@@ -11,6 +11,9 @@ A simple web-based password generator built with HTML, CSS, and JavaScript. Gene
 ## Demo link:
 https://nitesh-loop.github.io/Random-Password-Generator/
 
+<img width="891" height="806" alt="image" src="https://github.com/user-attachments/assets/559933cf-090a-4588-873a-1e33c3670887" />
+
+
 ## How to Use
 1. Open `index.html` in a web browser.
 2. Click the **Generate Password** button.
