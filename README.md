@@ -8,9 +8,8 @@ A simple web-based password generator built with HTML, CSS, and JavaScript. Gene
 - Optional: Toggle symbols and numbers on/off
 - Responsive and user-friendly design
 
-## Demo
-
-
+## Demo link:
+https://nitesh-loop.github.io/Random-Password-Generator/
 
 ## How to Use
 1. Open `index.html` in a web browser.
